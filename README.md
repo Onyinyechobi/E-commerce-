@@ -16,3 +16,4 @@ The E-commerce Dashboard in Power BI represents a dynamic and comprehensive anal
 Impact and Insights: The E-commerce Dashboard serves as a pivotal tool for decision-makers in the e-commerce sector, offering actionable insights into sales performance. The visualized data empowers stakeholders to identify trends, optimize 
 ## Conclusion
 The E-commerce Dashboard in Power BI underscores my proficiency in creating impactful visualizations for data-driven decision-making. By transforming raw sales data into a visually compelling and interactive dashboard, this project showcases my commitment to delivering solutions that empower stakeholders in the e-commerce domain.
+
