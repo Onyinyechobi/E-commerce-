@@ -1,4 +1,4 @@
-# E-commerce-
+# E-commerce
 The E-commerce Dashboard in Power BI represents a dynamic and comprehensive analysis of critical performance metrics, providing stakeholders with a visualized understanding of sales dynamics. This project focused on key indicators such as total sales, quantity, and pricing across different dimensions, enhancing decision-making in the e-commerce domain.
 ## Key Features:
 ### 	Monthly Performance Metrics
